@@ -13,8 +13,6 @@
 ### 天鳳牌譜解析スタートスニペット
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/furapotedesu/tenhouhaihu/blob/main/tenhou_analysis_start.ipynb)
 
-2. 開いたら、画面上部の「ランタイム」メニューから「すべてのセルを実行」を選んでください。
-
 ## 付属のPythonファイルについて
 
 このノートブックでは、以下のファイルを使用しています。
