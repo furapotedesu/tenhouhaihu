@@ -11,7 +11,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/furapotedesu/tenhouhaihu/blob/main/天鳳牌譜ダウンロード統合.ipynb)
 
 ### 天鳳牌譜解析スタートスニペット
-[![Open In Colab](https://colab.research.google.com/github/furapotedesu/tenhouhaihu/blob/main/天鳳牌譜解析スタートスニペット.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/furapotedesu/tenhouhaihu/blob/main/天鳳牌譜解析スタートスニペット.ipynb)
 
 2. 開いたら、画面上部の「ランタイム」メニューから「すべてのセルを実行」を選んでください。
 
