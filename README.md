@@ -65,3 +65,17 @@ uploaded = files.upload()
 - 実行にはGoogleアカウントが必要です。
 - ファイル名に日本語（例: `天鳳牌譜ダウンロード統合.ipynb`）が含まれていますが、Colab上では問題なく動作します。
 - ローカル環境（PC単体）での動作サポートは行っていません。
+
+## ライセンス
+
+このプロジェクトのコードはパブリックドメインとして公開されています。  
+自由に利用・改変・再配布が可能です。
+
+ただし、以下の外部ライブラリを利用していますので、それぞれのライセンスに従ってください。
+
+- **requests**: Apache License 2.0
+- **BeautifulSoup (bs4)**: MIT License
+- **pytest**: MIT License
+- **mahjong**: GNU General Public License v3 or later (GPLv3+)
+
+外部ライブラリのライセンスについては、それぞれの公式ページをご確認ください。
