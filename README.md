@@ -8,10 +8,10 @@
 1. 以下のリンクから、Google Colabで各ノートブックを開いてください。
 
 ### 天鳳牌譜ダウンロード統合
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/furapotedesu/tenhouhaihu/blob/main/天鳳牌譜ダウンロード統合.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/furapotedesu/tenhouhaihu/blob/main/tenhoudownload.ipynb)
 
 ### 天鳳牌譜解析スタートスニペット
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/furapotedesu/tenhouhaihu/blob/main/天鳳牌譜解析スタートスニペット.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/furapotedesu/tenhouhaihu/blob/main/tenhou_analysis_start.ipynb)
 
 2. 開いたら、画面上部の「ランタイム」メニューから「すべてのセルを実行」を選んでください。
 
@@ -63,7 +63,7 @@ uploaded = files.upload()
 ## 注意事項
 
 - 実行にはGoogleアカウントが必要です。
-- ファイル名に日本語（例: `天鳳牌譜ダウンロード統合.ipynb`）が含まれていますが、Colab上では問題なく動作します。
+- ファイル名に日本語が含まれていた場合は、英語ファイル名に変更しました。
 - ローカル環境（PC単体）での動作サポートは行っていません。
 
 ## ライセンス
