@@ -48,13 +48,6 @@
 - shanten_calc.py
 - splitter.py
 
-Google Colabでは、次のようにアップロードできます。
-
-```python
-from google.colab import files
-uploaded = files.upload()
-```
-
 ## 共有設定について
 
 ノートブックはGoogle Drive上で「リンクを知っている全員に閲覧可能」と設定されています。  
@@ -63,7 +56,6 @@ uploaded = files.upload()
 ## 注意事項
 
 - 実行にはGoogleアカウントが必要です。
-- ファイル名に日本語が含まれていた場合は、英語ファイル名に変更しました。
 - ローカル環境（PC単体）での動作サポートは行っていません。
 
 ## ライセンス
